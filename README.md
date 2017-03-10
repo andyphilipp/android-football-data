@@ -12,7 +12,7 @@ footballData.fixturesForTeam(mId).enqueue(new Callback<ArrayList<Fixture>>() {
     public void onResponse(Call<ArrayList<Fixture>> call, Response<ArrayList<Fixture>> response) {
         Fixture firstFixture = response.body().get(0);
         String awayTeam = firstFixture.getAwayTeamName();
-        String homeTeam = firstFixture.getAwayTeamName();
+        String homeTeam = firstFixture.getHomeTeamName();
         Result result = firstFixture.getResult();
         String display = String.format(Locale.getDefault(), "%s %d - %d %s", homeTeam, result.getGoalsHomeTeam(), result.getGoalsAwayTeam(), awayTeam);
         Toast.makeText(getActivity(), display, Toast.LENGTH_SHORT).show();
