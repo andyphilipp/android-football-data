@@ -1,0 +1,1233 @@
+{
+  "_links": {
+    "self": {
+      "href": "http://api.football-data.org/v1/teams/57/fixtures"
+    },
+    "team": {
+      "href": "http://api.football-data.org/v1/teams/57"
+    }
+  },
+  "count": 44,
+  "fixtures": [
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150836"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/57"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/64"
+        }
+      },
+      "date": "2016-08-14T15:00:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Arsenal FC",
+      "awayTeamName": "Liverpool FC",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 4
+      },
+      "odds": {
+        "homeWin": 2.2,
+        "draw": 3.2,
+        "awayWin": 3.25
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150825"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/338"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/57"
+        }
+      },
+      "date": "2016-08-20T16:30:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Leicester City FC",
+      "awayTeamName": "Arsenal FC",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      },
+      "odds": {
+        "homeWin": 2.9,
+        "draw": 3.3,
+        "awayWin": 2.37
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150823"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/346"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/57"
+        }
+      },
+      "date": "2016-08-27T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "Watford FC",
+      "awayTeamName": "Arsenal FC",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 3
+      },
+      "odds": {
+        "homeWin": 4.8,
+        "draw": 3.7,
+        "awayWin": 1.72
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150806"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/57"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/340"
+        }
+      },
+      "date": "2016-09-10T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "Arsenal FC",
+      "awayTeamName": "Southampton FC",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      },
+      "odds": {
+        "homeWin": 1.57,
+        "draw": 4.2,
+        "awayWin": 6.5
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/155222"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/524"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/57"
+        }
+      },
+      "date": "2016-09-13T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 1,
+      "homeTeamName": "Paris Saint-Germain",
+      "awayTeamName": "Arsenal FC",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150798"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/322"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/57"
+        }
+      },
+      "date": "2016-09-17T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "Hull City FC",
+      "awayTeamName": "Arsenal FC",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 4
+      },
+      "odds": {
+        "homeWin": 6.5,
+        "draw": 4.0,
+        "awayWin": 1.5
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150786"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/57"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/61"
+        }
+      },
+      "date": "2016-09-24T16:30:00Z",
+      "status": "FINISHED",
+      "matchday": 6,
+      "homeTeamName": "Arsenal FC",
+      "awayTeamName": "Chelsea FC",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 3,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": {
+        "homeWin": 2.3,
+        "draw": 3.4,
+        "awayWin": 3.0
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/155219"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/57"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/729"
+        }
+      },
+      "date": "2016-09-28T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 2,
+      "homeTeamName": "Arsenal FC",
+      "awayTeamName": "FC Basel",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 0
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150775"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/328"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/57"
+        }
+      },
+      "date": "2016-10-02T15:30:00Z",
+      "status": "FINISHED",
+      "matchday": 7,
+      "homeTeamName": "Burnley FC",
+      "awayTeamName": "Arsenal FC",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": {
+        "homeWin": 7.0,
+        "draw": 4.5,
+        "awayWin": 1.44
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150766"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/57"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/72"
+        }
+      },
+      "date": "2016-10-15T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 8,
+      "homeTeamName": "Arsenal FC",
+      "awayTeamName": "Swansea City FC",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 2,
+        "halfTime": {
+          "goalsHomeTeam": 2,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": {
+        "homeWin": 1.25,
+        "draw": 5.5,
+        "awayWin": 12.0
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/155217"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/57"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/753"
+        }
+      },
+      "date": "2016-10-19T18:45:00Z",
+      "status": "FINISHED",
+      "matchday": 3,
+      "homeTeamName": "Arsenal FC",
+      "awayTeamName": "Ludogorez Rasgrad",
+      "result": {
+        "goalsHomeTeam": 6,
+        "goalsAwayTeam": 0
+      },
+      "odds": {
+        "homeWin": 1.15,
+        "draw": 9.0,
+        "awayWin": 21.0
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150756"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/57"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/343"
+        }
+      },
+      "date": "2016-10-22T14:00:00Z",
+      "status": "FINISHED",
+      "matchday": 9,
+      "homeTeamName": "Arsenal FC",
+      "awayTeamName": "Middlesbrough FC",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": {
+        "homeWin": 1.28,
+        "draw": 5.5,
+        "awayWin": 12.0
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150751"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/71"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/57"
+        }
+      },
+      "date": "2016-10-29T11:30:00Z",
+      "status": "FINISHED",
+      "matchday": 10,
+      "homeTeamName": "Sunderland AFC",
+      "awayTeamName": "Arsenal FC",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 4,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/155216"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/753"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/57"
+        }
+      },
+      "date": "2016-11-01T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 4,
+      "homeTeamName": "Ludogorez Rasgrad",
+      "awayTeamName": "Arsenal FC",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 3
+      },
+      "odds": {
+        "homeWin": 10.0,
+        "draw": 5.5,
+        "awayWin": 1.35
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150736"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/57"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/73"
+        }
+      },
+      "date": "2016-11-06T12:00:00Z",
+      "status": "FINISHED",
+      "matchday": 11,
+      "homeTeamName": "Arsenal FC",
+      "awayTeamName": "Tottenham Hotspur FC",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 1,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": {
+        "homeWin": 2.0,
+        "draw": 3.6,
+        "awayWin": 3.5
+      }
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150727"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/66"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/57"
+        }
+      },
+      "date": "2016-11-19T12:30:00Z",
+      "status": "FINISHED",
+      "matchday": 12,
+      "homeTeamName": "Manchester United FC",
+      "awayTeamName": "Arsenal FC",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 0
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/155213"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/57"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/524"
+        }
+      },
+      "date": "2016-11-23T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 5,
+      "homeTeamName": "Arsenal FC",
+      "awayTeamName": "Paris Saint-Germain",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150715"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/57"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/1044"
+        }
+      },
+      "date": "2016-11-27T14:15:00Z",
+      "status": "SCHEDULED",
+      "matchday": 13,
+      "homeTeamName": "Arsenal FC",
+      "awayTeamName": "AFC Bournemouth",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150714"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/563"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/57"
+        }
+      },
+      "date": "2016-12-03T17:30:00Z",
+      "status": "SCHEDULED",
+      "matchday": 14,
+      "homeTeamName": "West Ham United FC",
+      "awayTeamName": "Arsenal FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/155211"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/729"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/57"
+        }
+      },
+      "date": "2016-12-06T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 6,
+      "homeTeamName": "FC Basel",
+      "awayTeamName": "Arsenal FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150695"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/57"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/70"
+        }
+      },
+      "date": "2016-12-10T15:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 15,
+      "homeTeamName": "Arsenal FC",
+      "awayTeamName": "Stoke City FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150688"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/62"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/57"
+        }
+      },
+      "date": "2016-12-13T19:45:00Z",
+      "status": "SCHEDULED",
+      "matchday": 16,
+      "homeTeamName": "Everton FC",
+      "awayTeamName": "Arsenal FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150678"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/65"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/57"
+        }
+      },
+      "date": "2016-12-18T16:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 17,
+      "homeTeamName": "Manchester City FC",
+      "awayTeamName": "Arsenal FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150665"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/57"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/74"
+        }
+      },
+      "date": "2016-12-26T15:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 18,
+      "homeTeamName": "Arsenal FC",
+      "awayTeamName": "West Bromwich Albion FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150655"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/57"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/354"
+        }
+      },
+      "date": "2017-01-01T16:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 19,
+      "homeTeamName": "Arsenal FC",
+      "awayTeamName": "Crystal Palace FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150645"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/1044"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/57"
+        }
+      },
+      "date": "2017-01-03T19:45:00Z",
+      "status": "SCHEDULED",
+      "matchday": 20,
+      "homeTeamName": "AFC Bournemouth",
+      "awayTeamName": "Arsenal FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150641"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/72"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/57"
+        }
+      },
+      "date": "2017-01-14T15:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 21,
+      "homeTeamName": "Swansea City FC",
+      "awayTeamName": "Arsenal FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150626"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/57"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/328"
+        }
+      },
+      "date": "2017-01-22T13:30:00Z",
+      "status": "SCHEDULED",
+      "matchday": 22,
+      "homeTeamName": "Arsenal FC",
+      "awayTeamName": "Burnley FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150619"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/57"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/346"
+        }
+      },
+      "date": "2017-01-31T19:45:00Z",
+      "status": "SCHEDULED",
+      "matchday": 23,
+      "homeTeamName": "Arsenal FC",
+      "awayTeamName": "Watford FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150605"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/61"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/57"
+        }
+      },
+      "date": "2017-02-04T15:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 24,
+      "homeTeamName": "Chelsea FC",
+      "awayTeamName": "Arsenal FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150596"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/57"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/322"
+        }
+      },
+      "date": "2017-02-11T15:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 25,
+      "homeTeamName": "Arsenal FC",
+      "awayTeamName": "Hull City FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150591"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/340"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/57"
+        }
+      },
+      "date": "2017-02-25T15:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 26,
+      "homeTeamName": "Southampton FC",
+      "awayTeamName": "Arsenal FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150576"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/64"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/57"
+        }
+      },
+      "date": "2017-03-04T15:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 27,
+      "homeTeamName": "Liverpool FC",
+      "awayTeamName": "Arsenal FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150566"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/57"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/338"
+        }
+      },
+      "date": "2017-03-11T15:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 28,
+      "homeTeamName": "Arsenal FC",
+      "awayTeamName": "Leicester City FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150563"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/74"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/57"
+        }
+      },
+      "date": "2017-03-18T15:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 29,
+      "homeTeamName": "West Bromwich Albion FC",
+      "awayTeamName": "Arsenal FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150545"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/57"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/65"
+        }
+      },
+      "date": "2017-04-01T14:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 30,
+      "homeTeamName": "Arsenal FC",
+      "awayTeamName": "Manchester City FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150539"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/57"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/563"
+        }
+      },
+      "date": "2017-04-04T18:45:00Z",
+      "status": "SCHEDULED",
+      "matchday": 31,
+      "homeTeamName": "Arsenal FC",
+      "awayTeamName": "West Ham United FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150526"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/354"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/57"
+        }
+      },
+      "date": "2017-04-08T14:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 32,
+      "homeTeamName": "Crystal Palace FC",
+      "awayTeamName": "Arsenal FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150518"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/343"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/57"
+        }
+      },
+      "date": "2017-04-15T14:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 33,
+      "homeTeamName": "Middlesbrough FC",
+      "awayTeamName": "Arsenal FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150506"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/57"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/71"
+        }
+      },
+      "date": "2017-04-22T14:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 34,
+      "homeTeamName": "Arsenal FC",
+      "awayTeamName": "Sunderland AFC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150502"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/73"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/57"
+        }
+      },
+      "date": "2017-04-29T14:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 35,
+      "homeTeamName": "Tottenham Hotspur FC",
+      "awayTeamName": "Arsenal FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150486"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/57"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/66"
+        }
+      },
+      "date": "2017-05-06T14:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 36,
+      "homeTeamName": "Arsenal FC",
+      "awayTeamName": "Manchester United FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150480"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/70"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/57"
+        }
+      },
+      "date": "2017-05-13T14:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 37,
+      "homeTeamName": "Stoke City FC",
+      "awayTeamName": "Arsenal FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150465"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/57"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/62"
+        }
+      },
+      "date": "2017-05-21T14:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 38,
+      "homeTeamName": "Arsenal FC",
+      "awayTeamName": "Everton FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    }
+  ]
+}

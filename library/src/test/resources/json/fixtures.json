@@ -1,0 +1,3911 @@
+{
+  "timeFrameStart": "2016-11-22",
+  "timeFrameEnd": "2016-11-28",
+  "count": 150,
+  "fixtures": [
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/155256"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/751"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/3"
+        }
+      },
+      "date": "2016-11-22T17:00:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "CSKA Moscow",
+      "awayTeamName": "Bayer Leverkusen",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 1,
+        "halfTime": {
+          "goalsHomeTeam": 0,
+          "goalsAwayTeam": 1
+        }
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/151862"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/428"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/1067"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/376"
+        }
+      },
+      "date": "2016-11-22T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 19,
+      "homeTeamName": "Bradford City AFC",
+      "awayTeamName": "Northampton Town",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/151865"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/428"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/1082"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/370"
+        }
+      },
+      "date": "2016-11-22T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 19,
+      "homeTeamName": "Oxford United",
+      "awayTeamName": "Gillingham FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/151863"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/428"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/400"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/348"
+        }
+      },
+      "date": "2016-11-22T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 19,
+      "homeTeamName": "Bristol Rovers",
+      "awayTeamName": "Charlton Athletic",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/151234"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/428"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/356"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/1068"
+        }
+      },
+      "date": "2016-11-22T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 19,
+      "homeTeamName": "Sheffield United FC",
+      "awayTeamName": "Bury FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/151864"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/428"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/384"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/347"
+        }
+      },
+      "date": "2016-11-22T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 19,
+      "homeTeamName": "Millwall FC",
+      "awayTeamName": "AFC Wimbledon",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/151235"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/428"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/1069"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/1079"
+        }
+      },
+      "date": "2016-11-22T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 19,
+      "homeTeamName": "Southend United FC",
+      "awayTeamName": "Swindon Town FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/151233"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/428"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/361"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/369"
+        }
+      },
+      "date": "2016-11-22T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 19,
+      "homeTeamName": "Rochdale AFC",
+      "awayTeamName": "Walsall FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/151232"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/428"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/393"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/1075"
+        }
+      },
+      "date": "2016-11-22T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 19,
+      "homeTeamName": "Port Vale FC",
+      "awayTeamName": "Oldham Athletic AFC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/151231"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/428"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/1077"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/1078"
+        }
+      },
+      "date": "2016-11-22T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 19,
+      "homeTeamName": "Peterborough United FC",
+      "awayTeamName": "Scunthorpe United FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/151230"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/428"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/409"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/363"
+        }
+      },
+      "date": "2016-11-22T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 19,
+      "homeTeamName": "Milton Keynes Dons",
+      "awayTeamName": "Chesterfield FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/151229"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/428"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/1073"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/1080"
+        }
+      },
+      "date": "2016-11-22T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 19,
+      "homeTeamName": "Fleetwood Town FC",
+      "awayTeamName": "Shrewsbury Town FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/155286"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/559"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/109"
+        }
+      },
+      "date": "2016-11-22T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "Sevilla FC",
+      "awayTeamName": "Juventus Turin",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 2
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/155285"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/755"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/523"
+        }
+      },
+      "date": "2016-11-22T19:45:00Z",
+      "status": "IN_PLAY",
+      "matchday": 5,
+      "homeTeamName": "GNK Dinamo Zagreb",
+      "awayTeamName": "Olympique Lyonnais",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/155317"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/4"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/1105"
+        }
+      },
+      "date": "2016-11-22T19:45:00Z",
+      "status": "IN_PLAY",
+      "matchday": 5,
+      "homeTeamName": "Borussia Dortmund",
+      "awayTeamName": "Legia Warszawa",
+      "result": {
+        "goalsHomeTeam": 3,
+        "goalsAwayTeam": 2
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/155255"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/548"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/73"
+        }
+      },
+      "date": "2016-11-22T19:45:00Z",
+      "status": "FINISHED",
+      "matchday": 5,
+      "homeTeamName": "AS Monaco FC",
+      "awayTeamName": "Tottenham Hotspur FC",
+      "result": {
+        "goalsHomeTeam": 2,
+        "goalsAwayTeam": 1
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/155273"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/725"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/503"
+        }
+      },
+      "date": "2016-11-22T19:45:00Z",
+      "status": "IN_PLAY",
+      "matchday": 5,
+      "homeTeamName": "FC Copenhagen",
+      "awayTeamName": "FC Porto",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/155266"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/498"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/86"
+        }
+      },
+      "date": "2016-11-22T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 5,
+      "homeTeamName": "Sporting CP",
+      "awayTeamName": "Real Madrid CF",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/155274"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/338"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/851"
+        }
+      },
+      "date": "2016-11-22T19:45:00Z",
+      "status": "IN_PLAY",
+      "matchday": 5,
+      "homeTeamName": "Leicester City FC",
+      "awayTeamName": "Club Brugge",
+      "result": {
+        "goalsHomeTeam": 1,
+        "goalsAwayTeam": 0
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/151228"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/428"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/60"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/1076"
+        }
+      },
+      "date": "2016-11-22T20:00:00Z",
+      "status": "IN_PLAY",
+      "matchday": 19,
+      "homeTeamName": "Bolton Wanderers FC",
+      "awayTeamName": "Coventry City FC",
+      "result": {
+        "goalsHomeTeam": 0,
+        "goalsAwayTeam": 0
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/155323"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/1104"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/5"
+        }
+      },
+      "date": "2016-11-23T17:00:00Z",
+      "status": "TIMED",
+      "matchday": 5,
+      "homeTeamName": "FC Rostov",
+      "awayTeamName": "FC Bayern München",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/155237"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/18"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/65"
+        }
+      },
+      "date": "2016-11-23T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 5,
+      "homeTeamName": "Bor. Mönchengladbach",
+      "awayTeamName": "Manchester City FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/155238"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/732"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/81"
+        }
+      },
+      "date": "2016-11-23T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 5,
+      "homeTeamName": "Celtic FC",
+      "awayTeamName": "FC Barcelona",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/155248"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/78"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/674"
+        }
+      },
+      "date": "2016-11-23T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 5,
+      "homeTeamName": "Club Atlético de Madrid",
+      "awayTeamName": "PSV Eindhoven",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/155226"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/113"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/842"
+        }
+      },
+      "date": "2016-11-23T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 5,
+      "homeTeamName": "SSC Napoli",
+      "awayTeamName": "Dynamo Kyiv",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/155213"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/57"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/524"
+        }
+      },
+      "date": "2016-11-23T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 5,
+      "homeTeamName": "Arsenal FC",
+      "awayTeamName": "Paris Saint-Germain",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/155225"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/600"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/495"
+        }
+      },
+      "date": "2016-11-23T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 5,
+      "homeTeamName": "Besiktas JK",
+      "awayTeamName": "SL Benfica",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/155214"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/440"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/753"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/729"
+        }
+      },
+      "date": "2016-11-23T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 5,
+      "homeTeamName": "Ludogorez Rasgrad",
+      "awayTeamName": "FC Basel",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/152441"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/431"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/24"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/8"
+        }
+      },
+      "date": "2016-11-25T17:30:00Z",
+      "status": "TIMED",
+      "matchday": 14,
+      "homeTeamName": "Fortuna Düsseldorf",
+      "awayTeamName": "Hannover 96",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/152447"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/431"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/1055"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/22"
+        }
+      },
+      "date": "2016-11-25T17:30:00Z",
+      "status": "TIMED",
+      "matchday": 14,
+      "homeTeamName": "Würzburger Kickers",
+      "awayTeamName": "Erzgebirge Aue",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/152442"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/431"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/21"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/38"
+        }
+      },
+      "date": "2016-11-25T17:30:00Z",
+      "status": "TIMED",
+      "matchday": 14,
+      "homeTeamName": "SpVgg Greuther Fürth",
+      "awayTeamName": "Arminia Bielefeld",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/153492"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/433"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/718"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/672"
+        }
+      },
+      "date": "2016-11-25T19:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 14,
+      "homeTeamName": "Go Ahead Eagles Deventer",
+      "awayTeamName": "Willem II Tilburg",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/153143"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/435"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/1042"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/567"
+        }
+      },
+      "date": "2016-11-25T19:00:00Z",
+      "status": "TIMED",
+      "matchday": 16,
+      "homeTeamName": "FC Bourg-en-Bresse Péronnas",
+      "awayTeamName": "Red Star 93",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/153144"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/435"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/555"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/517"
+        }
+      },
+      "date": "2016-11-25T19:00:00Z",
+      "status": "TIMED",
+      "matchday": 16,
+      "homeTeamName": "Gazélec Ajaccio",
+      "awayTeamName": "Sochaux FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/153145"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/435"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/546"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/533"
+        }
+      },
+      "date": "2016-11-25T19:00:00Z",
+      "status": "TIMED",
+      "matchday": 16,
+      "homeTeamName": "RC Lens",
+      "awayTeamName": "Le Havre AC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/153146"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/435"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/556"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/547"
+        }
+      },
+      "date": "2016-11-25T19:00:00Z",
+      "status": "TIMED",
+      "matchday": 16,
+      "homeTeamName": "Nîmes Olympique",
+      "awayTeamName": "Stade de Reims",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/153147"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/435"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/557"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/510"
+        }
+      },
+      "date": "2016-11-25T19:00:00Z",
+      "status": "TIMED",
+      "matchday": 16,
+      "homeTeamName": "Chamois Niortais FC",
+      "awayTeamName": "Ajaccio AC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/153148"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/435"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/742"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/515"
+        }
+      },
+      "date": "2016-11-25T19:00:00Z",
+      "status": "TIMED",
+      "matchday": 16,
+      "homeTeamName": "US Orleans",
+      "awayTeamName": "FC Valenciennes",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/153149"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/435"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/576"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/540"
+        }
+      },
+      "date": "2016-11-25T19:00:00Z",
+      "status": "TIMED",
+      "matchday": 16,
+      "homeTeamName": "Strasbourg",
+      "awayTeamName": "FC Stade Lavallois Mayenne",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/153150"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/435"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/544"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/519"
+        }
+      },
+      "date": "2016-11-25T19:00:00Z",
+      "status": "TIMED",
+      "matchday": 16,
+      "homeTeamName": "RC Tours",
+      "awayTeamName": "AJ Auxerre",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/153151"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/435"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/531"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/541"
+        }
+      },
+      "date": "2016-11-25T19:00:00Z",
+      "status": "TIMED",
+      "matchday": 16,
+      "homeTeamName": "ES Troyes AC",
+      "awayTeamName": "Clermont Foot Auvergne",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/154448"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/437"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/265"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/264"
+        }
+      },
+      "date": "2016-11-25T19:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 16,
+      "homeTeamName": "Gimnàstic de Tarragona",
+      "awayTeamName": "Cádiz CF",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/152154"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/430"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/17"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/721"
+        }
+      },
+      "date": "2016-11-25T19:30:00Z",
+      "status": "TIMED",
+      "matchday": 12,
+      "homeTeamName": "SC Freiburg",
+      "awayTeamName": "Red Bull Leipzig",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/151578"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/427"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/357"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/351"
+        }
+      },
+      "date": "2016-11-25T19:45:00Z",
+      "status": "SCHEDULED",
+      "matchday": 18,
+      "homeTeamName": "Barnsley FC",
+      "awayTeamName": "Nottingham Forest",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/152814"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/434"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/529"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/511"
+        }
+      },
+      "date": "2016-11-25T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 14,
+      "homeTeamName": "Stade Rennais FC",
+      "awayTeamName": "Toulouse FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/153917"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/436"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/278"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/90"
+        }
+      },
+      "date": "2016-11-25T19:45:00Z",
+      "status": "SCHEDULED",
+      "matchday": 13,
+      "homeTeamName": "SD Eibar",
+      "awayTeamName": "Real Betis",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/155080"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/439"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/506"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/496"
+        }
+      },
+      "date": "2016-11-25T20:30:00Z",
+      "status": "TIMED",
+      "matchday": 11,
+      "homeTeamName": "Vitoria Setubal",
+      "awayTeamName": "FC Rio Ave",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/152806"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/434"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/532"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/527"
+        }
+      },
+      "date": "2016-11-25T23:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 14,
+      "homeTeamName": "Angers SCO",
+      "awayTeamName": "AS Saint-Étienne",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/155184"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/439"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/1103"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/504"
+        }
+      },
+      "date": "2016-11-26T11:45:00Z",
+      "status": "TIMED",
+      "matchday": 11,
+      "homeTeamName": "G.D. Chaves",
+      "awayTeamName": "Maritimo Funchal",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/152439"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/431"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/35"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/36"
+        }
+      },
+      "date": "2016-11-26T12:00:00Z",
+      "status": "TIMED",
+      "matchday": 14,
+      "homeTeamName": "Dynamo Dresden",
+      "awayTeamName": "VfL Bochum",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/152443"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/431"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/44"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/20"
+        }
+      },
+      "date": "2016-11-26T12:00:00Z",
+      "status": "TIMED",
+      "matchday": 14,
+      "homeTeamName": "1. FC Heidenheim 1846",
+      "awayTeamName": "FC St. Pauli",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/153920"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/436"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/84"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/560"
+        }
+      },
+      "date": "2016-11-26T12:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 13,
+      "homeTeamName": "Málaga CF",
+      "awayTeamName": "RC Deportivo La Coruna",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150716"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/328"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/65"
+        }
+      },
+      "date": "2016-11-26T12:30:00Z",
+      "status": "SCHEDULED",
+      "matchday": 13,
+      "homeTeamName": "Burnley FC",
+      "awayTeamName": "Manchester City FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/153309"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/435"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/530"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/512"
+        }
+      },
+      "date": "2016-11-26T14:00:00Z",
+      "status": "TIMED",
+      "matchday": 16,
+      "homeTeamName": "Amiens SC",
+      "awayTeamName": "Stade Brestois",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/152158"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/430"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/1"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/16"
+        }
+      },
+      "date": "2016-11-26T14:30:00Z",
+      "status": "TIMED",
+      "matchday": 12,
+      "homeTeamName": "1. FC Köln",
+      "awayTeamName": "FC Augsburg",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/152152"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/430"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/18"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/2"
+        }
+      },
+      "date": "2016-11-26T14:30:00Z",
+      "status": "TIMED",
+      "matchday": 12,
+      "homeTeamName": "Bor. Mönchengladbach",
+      "awayTeamName": "TSG 1899 Hoffenheim",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/152153"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/430"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/19"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/4"
+        }
+      },
+      "date": "2016-11-26T14:30:00Z",
+      "status": "TIMED",
+      "matchday": 12,
+      "homeTeamName": "Eintracht Frankfurt",
+      "awayTeamName": "Borussia Dortmund",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/152155"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/430"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/7"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/12"
+        }
+      },
+      "date": "2016-11-26T14:30:00Z",
+      "status": "TIMED",
+      "matchday": 12,
+      "homeTeamName": "Hamburger SV",
+      "awayTeamName": "Werder Bremen",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/152157"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/430"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/31"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/11"
+        }
+      },
+      "date": "2016-11-26T14:30:00Z",
+      "status": "TIMED",
+      "matchday": 12,
+      "homeTeamName": "FC Ingolstadt 04",
+      "awayTeamName": "VfL Wolfsburg",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150718"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/322"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/74"
+        }
+      },
+      "date": "2016-11-26T15:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 13,
+      "homeTeamName": "Hull City FC",
+      "awayTeamName": "West Bromwich Albion FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150719"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/338"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/343"
+        }
+      },
+      "date": "2016-11-26T15:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 13,
+      "homeTeamName": "Leicester City FC",
+      "awayTeamName": "Middlesbrough FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150720"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/64"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/71"
+        }
+      },
+      "date": "2016-11-26T15:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 13,
+      "homeTeamName": "Liverpool FC",
+      "awayTeamName": "Sunderland AFC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150723"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/72"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/354"
+        }
+      },
+      "date": "2016-11-26T15:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 13,
+      "homeTeamName": "Swansea City FC",
+      "awayTeamName": "Crystal Palace FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/151582"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/427"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/1081"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/1072"
+        }
+      },
+      "date": "2016-11-26T15:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 18,
+      "homeTeamName": "Preston North End",
+      "awayTeamName": "Burton Albion FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/151584"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/427"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/76"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/345"
+        }
+      },
+      "date": "2016-11-26T15:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 18,
+      "homeTeamName": "Wolverhampton Wanderers FC",
+      "awayTeamName": "Sheffield Wednesday",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/151581"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/427"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/349"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/69"
+        }
+      },
+      "date": "2016-11-26T15:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 18,
+      "homeTeamName": "Ipswich Town",
+      "awayTeamName": "Queens Park Rangers",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/151579"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/427"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/342"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/68"
+        }
+      },
+      "date": "2016-11-26T15:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 18,
+      "homeTeamName": "Derby County",
+      "awayTeamName": "Norwich City FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/151385"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/427"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/402"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/332"
+        }
+      },
+      "date": "2016-11-26T15:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 18,
+      "homeTeamName": "Brentford FC",
+      "awayTeamName": "Birmingham City",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150958"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/427"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/355"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/387"
+        }
+      },
+      "date": "2016-11-26T15:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 18,
+      "homeTeamName": "Reading",
+      "awayTeamName": "Bristol City",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/151721"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/427"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/397"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/63"
+        }
+      },
+      "date": "2016-11-26T15:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 18,
+      "homeTeamName": "Brighton & Hove Albion",
+      "awayTeamName": "Fulham FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150956"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/427"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/58"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/715"
+        }
+      },
+      "date": "2016-11-26T15:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 18,
+      "homeTeamName": "Aston Villa FC",
+      "awayTeamName": "Cardiff City FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150957"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/427"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/67"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/59"
+        }
+      },
+      "date": "2016-11-26T15:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 18,
+      "homeTeamName": "Newcastle United FC",
+      "awayTeamName": "Blackburn Rovers FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/151857"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/428"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/347"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/1073"
+        }
+      },
+      "date": "2016-11-26T15:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 20,
+      "homeTeamName": "AFC Wimbledon",
+      "awayTeamName": "Fleetwood Town FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/151858"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/428"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/348"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/356"
+        }
+      },
+      "date": "2016-11-26T15:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 20,
+      "homeTeamName": "Charlton Athletic",
+      "awayTeamName": "Sheffield United FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/151861"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/428"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/1078"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/1082"
+        }
+      },
+      "date": "2016-11-26T15:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 20,
+      "homeTeamName": "Scunthorpe United FC",
+      "awayTeamName": "Oxford United",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/151860"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/428"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/376"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/60"
+        }
+      },
+      "date": "2016-11-26T15:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 20,
+      "homeTeamName": "Northampton Town",
+      "awayTeamName": "Bolton Wanderers FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/151221"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/428"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/1068"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/384"
+        }
+      },
+      "date": "2016-11-26T15:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 20,
+      "homeTeamName": "Bury FC",
+      "awayTeamName": "Millwall FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/151222"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/428"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/1076"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/409"
+        }
+      },
+      "date": "2016-11-26T15:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 20,
+      "homeTeamName": "Coventry City FC",
+      "awayTeamName": "Milton Keynes Dons",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/151223"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/428"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/370"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/361"
+        }
+      },
+      "date": "2016-11-26T15:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 20,
+      "homeTeamName": "Gillingham FC",
+      "awayTeamName": "Rochdale AFC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/151859"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/428"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/363"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/400"
+        }
+      },
+      "date": "2016-11-26T15:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 20,
+      "homeTeamName": "Chesterfield FC",
+      "awayTeamName": "Bristol Rovers",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/151227"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/428"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/369"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/1069"
+        }
+      },
+      "date": "2016-11-26T15:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 20,
+      "homeTeamName": "Walsall FC",
+      "awayTeamName": "Southend United FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/151226"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/428"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/1079"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/1067"
+        }
+      },
+      "date": "2016-11-26T15:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 20,
+      "homeTeamName": "Swindon Town FC",
+      "awayTeamName": "Bradford City AFC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/151225"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/428"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/1080"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/393"
+        }
+      },
+      "date": "2016-11-26T15:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 20,
+      "homeTeamName": "Shrewsbury Town FC",
+      "awayTeamName": "Port Vale FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/151224"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/428"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/1075"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/1077"
+        }
+      },
+      "date": "2016-11-26T15:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 20,
+      "homeTeamName": "Oldham Athletic AFC",
+      "awayTeamName": "Peterborough United FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/154241"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/437"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/596"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/254"
+        }
+      },
+      "date": "2016-11-26T15:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 16,
+      "homeTeamName": "CD Lugo",
+      "awayTeamName": "CD Tenerife",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/153922"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/436"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/86"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/96"
+        }
+      },
+      "date": "2016-11-26T15:15:00Z",
+      "status": "SCHEDULED",
+      "matchday": 13,
+      "homeTeamName": "Real Madrid CF",
+      "awayTeamName": "Sporting Gijón",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/152810"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/434"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/548"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/516"
+        }
+      },
+      "date": "2016-11-26T16:00:00Z",
+      "status": "TIMED",
+      "matchday": 14,
+      "homeTeamName": "AS Monaco FC",
+      "awayTeamName": "Olympique de Marseille",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/155077"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/439"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/501"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/582"
+        }
+      },
+      "date": "2016-11-26T16:00:00Z",
+      "status": "TIMED",
+      "matchday": 11,
+      "homeTeamName": "Nacional Funchal",
+      "awayTeamName": "GD Estoril Praia",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/154451"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/437"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/1100"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/260"
+        }
+      },
+      "date": "2016-11-26T17:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 16,
+      "homeTeamName": "UCAM Murcia",
+      "awayTeamName": "CD Numancia de Soria",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/154242"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/437"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/250"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/267"
+        }
+      },
+      "date": "2016-11-26T17:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 16,
+      "homeTeamName": "Real Valladolid",
+      "awayTeamName": "UD Almeria",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/154236"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/437"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/304"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/1048"
+        }
+      },
+      "date": "2016-11-26T17:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 16,
+      "homeTeamName": "AD Alcorcón",
+      "awayTeamName": "Real Oviedo",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/154757"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/438"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/586"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/106"
+        }
+      },
+      "date": "2016-11-26T17:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 14,
+      "homeTeamName": "Torino FC",
+      "awayTeamName": "AC Chievo Verona",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150717"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/61"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/73"
+        }
+      },
+      "date": "2016-11-26T17:30:00Z",
+      "status": "SCHEDULED",
+      "matchday": 13,
+      "homeTeamName": "Chelsea FC",
+      "awayTeamName": "Tottenham Hotspur FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/151583"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/427"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/385"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/341"
+        }
+      },
+      "date": "2016-11-26T17:30:00Z",
+      "status": "SCHEDULED",
+      "matchday": 18,
+      "homeTeamName": "Rotherham United",
+      "awayTeamName": "Leeds United",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/152151"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/430"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/5"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/3"
+        }
+      },
+      "date": "2016-11-26T17:30:00Z",
+      "status": "TIMED",
+      "matchday": 12,
+      "homeTeamName": "FC Bayern München",
+      "awayTeamName": "Bayer Leverkusen",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/153491"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/433"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/679"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/670"
+        }
+      },
+      "date": "2016-11-26T17:30:00Z",
+      "status": "SCHEDULED",
+      "matchday": 14,
+      "homeTeamName": "Vitesse Arnhem",
+      "awayTeamName": "Excelsior",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/153918"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/436"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/80"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/745"
+        }
+      },
+      "date": "2016-11-26T17:30:00Z",
+      "status": "SCHEDULED",
+      "matchday": 13,
+      "homeTeamName": "RCD Espanyol",
+      "awayTeamName": "CD Leganes",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/155076"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/439"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/810"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/498"
+        }
+      },
+      "date": "2016-11-26T18:15:00Z",
+      "status": "TIMED",
+      "matchday": 11,
+      "homeTeamName": "Boavista Porto FC",
+      "awayTeamName": "Sporting CP",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/153490"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/433"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/674"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/680"
+        }
+      },
+      "date": "2016-11-26T18:45:00Z",
+      "status": "SCHEDULED",
+      "matchday": 14,
+      "homeTeamName": "PSV Eindhoven",
+      "awayTeamName": "ADO Den Haag",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/153489"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/433"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/684"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/677"
+        }
+      },
+      "date": "2016-11-26T18:45:00Z",
+      "status": "SCHEDULED",
+      "matchday": 14,
+      "homeTeamName": "PEC Zwolle",
+      "awayTeamName": "FC Groningen",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/152807"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/434"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/526"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/528"
+        }
+      },
+      "date": "2016-11-26T19:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 14,
+      "homeTeamName": "FC Girondins de Bordeaux",
+      "awayTeamName": "Dijon FCO",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/152808"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/434"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/514"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/538"
+        }
+      },
+      "date": "2016-11-26T19:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 14,
+      "homeTeamName": "SM Caen",
+      "awayTeamName": "EA Guingamp",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/152809"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/434"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/545"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/525"
+        }
+      },
+      "date": "2016-11-26T19:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 14,
+      "homeTeamName": "FC Metz",
+      "awayTeamName": "FC Lorient",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/152811"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/434"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/518"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/520"
+        }
+      },
+      "date": "2016-11-26T19:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 14,
+      "homeTeamName": "Montpellier Hérault SC",
+      "awayTeamName": "AS Nancy",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/152812"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/434"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/543"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/521"
+        }
+      },
+      "date": "2016-11-26T19:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 14,
+      "homeTeamName": "FC Nantes",
+      "awayTeamName": "OSC Lille",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/154449"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/437"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/91"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/1099"
+        }
+      },
+      "date": "2016-11-26T19:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 16,
+      "homeTeamName": "Real Zaragoza",
+      "awayTeamName": "CF Reus Deportiu",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/153488"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/433"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/667"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/666"
+        }
+      },
+      "date": "2016-11-26T19:45:00Z",
+      "status": "SCHEDULED",
+      "matchday": 14,
+      "homeTeamName": "NEC Nijmegen",
+      "awayTeamName": "FC Twente Enschede",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/153924"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/436"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/559"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/95"
+        }
+      },
+      "date": "2016-11-26T19:45:00Z",
+      "status": "SCHEDULED",
+      "matchday": 13,
+      "homeTeamName": "Sevilla FC",
+      "awayTeamName": "Valencia CF",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/154751"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/438"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/445"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/98"
+        }
+      },
+      "date": "2016-11-26T19:45:00Z",
+      "status": "SCHEDULED",
+      "matchday": 14,
+      "homeTeamName": "Empoli FC",
+      "awayTeamName": "AC Milan",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/155074"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/439"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/711"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/503"
+        }
+      },
+      "date": "2016-11-26T20:30:00Z",
+      "status": "TIMED",
+      "matchday": 11,
+      "homeTeamName": "C.F. Os Belenenses",
+      "awayTeamName": "FC Porto",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/153925"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/436"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/94"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/263"
+        }
+      },
+      "date": "2016-11-27T11:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 13,
+      "homeTeamName": "Villarreal CF",
+      "awayTeamName": "Deportivo Alavés",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/154238"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/437"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/285"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/89"
+        }
+      },
+      "date": "2016-11-27T11:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 16,
+      "homeTeamName": "Elche FC",
+      "awayTeamName": "RCD Mallorca",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/153617"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/433"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/1085"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/665"
+        }
+      },
+      "date": "2016-11-27T11:30:00Z",
+      "status": "SCHEDULED",
+      "matchday": 14,
+      "homeTeamName": "Sparta Rotterdam",
+      "awayTeamName": "Roda JC Kerkrade",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/154755"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/438"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/114"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/110"
+        }
+      },
+      "date": "2016-11-27T11:30:00Z",
+      "status": "SCHEDULED",
+      "matchday": 14,
+      "homeTeamName": "US Cittá di Palermo",
+      "awayTeamName": "SS Lazio",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150724"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/346"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/70"
+        }
+      },
+      "date": "2016-11-27T12:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 13,
+      "homeTeamName": "Watford FC",
+      "awayTeamName": "Stoke City FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/152440"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/431"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/33"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/26"
+        }
+      },
+      "date": "2016-11-27T12:30:00Z",
+      "status": "SCHEDULED",
+      "matchday": 14,
+      "homeTeamName": "Eintracht Braunschweig",
+      "awayTeamName": "TSV 1860 München",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/152444"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/431"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/13"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/32"
+        }
+      },
+      "date": "2016-11-27T12:30:00Z",
+      "status": "SCHEDULED",
+      "matchday": 14,
+      "homeTeamName": "1. FC Kaiserslautern",
+      "awayTeamName": "Karlsruher SC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/152445"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/431"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/46"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/28"
+        }
+      },
+      "date": "2016-11-27T12:30:00Z",
+      "status": "SCHEDULED",
+      "matchday": 14,
+      "homeTeamName": "SV Sandhausen",
+      "awayTeamName": "1. FC Union Berlin",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/153486"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/433"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/682"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/671"
+        }
+      },
+      "date": "2016-11-27T13:30:00Z",
+      "status": "SCHEDULED",
+      "matchday": 14,
+      "homeTeamName": "AZ Alkmaar",
+      "awayTeamName": "Heracles Almelo",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/153487"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/433"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/673"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/678"
+        }
+      },
+      "date": "2016-11-27T13:30:00Z",
+      "status": "SCHEDULED",
+      "matchday": 14,
+      "homeTeamName": "SC Heerenveen",
+      "awayTeamName": "Ajax Amsterdam",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/154750"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/438"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/472"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/584"
+        }
+      },
+      "date": "2016-11-27T14:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 14,
+      "homeTeamName": "FC Crotone",
+      "awayTeamName": "UC Sampdoria",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/154752"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/438"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/107"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/109"
+        }
+      },
+      "date": "2016-11-27T14:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 14,
+      "homeTeamName": "Genoa CFC",
+      "awayTeamName": "Juventus Turin",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/154748"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/438"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/103"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/102"
+        }
+      },
+      "date": "2016-11-27T14:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 14,
+      "homeTeamName": "Bologna FC",
+      "awayTeamName": "Atalanta BC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/154749"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/438"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/104"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/115"
+        }
+      },
+      "date": "2016-11-27T14:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 14,
+      "homeTeamName": "Cagliari Calcio",
+      "awayTeamName": "Udinese Calcio",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150715"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/57"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/1044"
+        }
+      },
+      "date": "2016-11-27T14:15:00Z",
+      "status": "SCHEDULED",
+      "matchday": 13,
+      "homeTeamName": "Arsenal FC",
+      "awayTeamName": "AFC Bournemouth",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/152159"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/430"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/6"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/55"
+        }
+      },
+      "date": "2016-11-27T14:30:00Z",
+      "status": "SCHEDULED",
+      "matchday": 12,
+      "homeTeamName": "FC Schalke 04",
+      "awayTeamName": "SV Darmstadt 98",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/154239"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/437"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/299"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/298"
+        }
+      },
+      "date": "2016-11-27T15:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 16,
+      "homeTeamName": "Huesca",
+      "awayTeamName": "Girona FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/153921"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/436"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/79"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/78"
+        }
+      },
+      "date": "2016-11-27T15:15:00Z",
+      "status": "SCHEDULED",
+      "matchday": 13,
+      "homeTeamName": "CA Osasuna",
+      "awayTeamName": "Club Atlético de Madrid",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/153485"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/433"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/676"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/675"
+        }
+      },
+      "date": "2016-11-27T15:45:00Z",
+      "status": "SCHEDULED",
+      "matchday": 14,
+      "homeTeamName": "FC Utrecht",
+      "awayTeamName": "Feyenoord Rotterdam",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/152813"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/434"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/522"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/536"
+        }
+      },
+      "date": "2016-11-27T16:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 14,
+      "homeTeamName": "OGC Nice",
+      "awayTeamName": "SC Bastia",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/155073"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/439"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/712"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/507"
+        }
+      },
+      "date": "2016-11-27T16:00:00Z",
+      "status": "TIMED",
+      "matchday": 11,
+      "homeTeamName": "FC Arouca",
+      "awayTeamName": "FC Paços de Ferreira",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150721"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/66"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/563"
+        }
+      },
+      "date": "2016-11-27T16:30:00Z",
+      "status": "SCHEDULED",
+      "matchday": 13,
+      "homeTeamName": "Manchester United FC",
+      "awayTeamName": "West Ham United FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/150722"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/426"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/340"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/62"
+        }
+      },
+      "date": "2016-11-27T16:30:00Z",
+      "status": "SCHEDULED",
+      "matchday": 13,
+      "homeTeamName": "Southampton FC",
+      "awayTeamName": "Everton FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/152156"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/430"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/9"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/15"
+        }
+      },
+      "date": "2016-11-27T16:30:00Z",
+      "status": "SCHEDULED",
+      "matchday": 12,
+      "homeTeamName": "Hertha BSC",
+      "awayTeamName": "1. FSV Mainz 05",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/154450"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/437"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/1102"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/595"
+        }
+      },
+      "date": "2016-11-27T17:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 16,
+      "homeTeamName": "Sevilla II",
+      "awayTeamName": "CD Mirandes",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/154237"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/437"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/295"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/82"
+        }
+      },
+      "date": "2016-11-27T17:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 16,
+      "homeTeamName": "Córdoba CF",
+      "awayTeamName": "Getafe CF",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/153916"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/436"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/558"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/83"
+        }
+      },
+      "date": "2016-11-27T17:30:00Z",
+      "status": "SCHEDULED",
+      "matchday": 13,
+      "homeTeamName": "RC Celta de Vigo",
+      "awayTeamName": "Granada CF",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/155075"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/439"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/495"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/583"
+        }
+      },
+      "date": "2016-11-27T18:00:00Z",
+      "status": "TIMED",
+      "matchday": 11,
+      "homeTeamName": "SL Benfica",
+      "awayTeamName": "Moreirense FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/154240"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/437"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/88"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/87"
+        }
+      },
+      "date": "2016-11-27T19:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 16,
+      "homeTeamName": "Levante UD",
+      "awayTeamName": "Rayo Vallecano de Madrid",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/152805"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/434"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/523"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/524"
+        }
+      },
+      "date": "2016-11-27T19:45:00Z",
+      "status": "SCHEDULED",
+      "matchday": 14,
+      "homeTeamName": "Olympique Lyonnais",
+      "awayTeamName": "Paris Saint-Germain",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/153923"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/436"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/92"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/81"
+        }
+      },
+      "date": "2016-11-27T19:45:00Z",
+      "status": "SCHEDULED",
+      "matchday": 13,
+      "homeTeamName": "Real Sociedad de Fútbol",
+      "awayTeamName": "FC Barcelona",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/154756"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/438"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/100"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/585"
+        }
+      },
+      "date": "2016-11-27T19:45:00Z",
+      "status": "SCHEDULED",
+      "matchday": 14,
+      "homeTeamName": "AS Roma",
+      "awayTeamName": "Pescara Calcio",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/155079"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/439"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/1049"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/502"
+        }
+      },
+      "date": "2016-11-27T20:15:00Z",
+      "status": "TIMED",
+      "matchday": 11,
+      "homeTeamName": "CD Tondela",
+      "awayTeamName": "Vitoria Guimaraes",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/154754"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/438"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/113"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/471"
+        }
+      },
+      "date": "2016-11-28T18:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 14,
+      "homeTeamName": "SSC Napoli",
+      "awayTeamName": "US Sassuolo Calcio",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/152446"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/431"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/10"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/14"
+        }
+      },
+      "date": "2016-11-28T19:15:00Z",
+      "status": "SCHEDULED",
+      "matchday": 14,
+      "homeTeamName": "VfB Stuttgart",
+      "awayTeamName": "1. FC Nürnberg",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/153140"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/435"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/547"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/557"
+        }
+      },
+      "date": "2016-11-28T19:30:00Z",
+      "status": "SCHEDULED",
+      "matchday": 17,
+      "homeTeamName": "Stade de Reims",
+      "awayTeamName": "Chamois Niortais FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/151580"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/427"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/394"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/75"
+        }
+      },
+      "date": "2016-11-28T19:45:00Z",
+      "status": "SCHEDULED",
+      "matchday": 18,
+      "homeTeamName": "Huddersfield Town",
+      "awayTeamName": "Wigan Athletic FC",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/153919"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/436"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/275"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/77"
+        }
+      },
+      "date": "2016-11-28T19:45:00Z",
+      "status": "SCHEDULED",
+      "matchday": 13,
+      "homeTeamName": "UD Las Palmas",
+      "awayTeamName": "Athletic Club",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/154753"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/438"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/108"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/99"
+        }
+      },
+      "date": "2016-11-28T20:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 14,
+      "homeTeamName": "FC Internazionale Milano",
+      "awayTeamName": "ACF Fiorentina",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "http://api.football-data.org/v1/fixtures/155078"
+        },
+        "competition": {
+          "href": "http://api.football-data.org/v1/competitions/439"
+        },
+        "homeTeam": {
+          "href": "http://api.football-data.org/v1/teams/497"
+        },
+        "awayTeam": {
+          "href": "http://api.football-data.org/v1/teams/500"
+        }
+      },
+      "date": "2016-11-28T20:00:00Z",
+      "status": "TIMED",
+      "matchday": 11,
+      "homeTeamName": "Sporting Braga",
+      "awayTeamName": "Feirense",
+      "result": {
+        "goalsHomeTeam": null,
+        "goalsAwayTeam": null
+      },
+      "odds": null
+    }
+  ]
+}
